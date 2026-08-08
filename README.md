@@ -60,7 +60,8 @@ Open `index.html` in your preferred web browser.
 
 <p align="center">
   <img src="./screenshots/landingPage.png" alt="Amazon UI Clone" width="900">
-  <div height="50">
+</p>
+<p align="center">
   <img src="./screenshots/footer.png" alt="Amazon UI Clone" width="900">
 </p>
 
