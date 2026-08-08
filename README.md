@@ -58,11 +58,10 @@ Open `index.html` in your preferred web browser.
 
 ## 📸 Screenshot
 
-```html
 <p align="center">
-  <img src="./screenshots/home.png" alt="Amazon UI Clone" width="900">
+  <img src="./screenshots/landingPage.png" alt="Amazon UI Clone" width="900">
+  <img src="./screenshots/footer.png" alt="Amazon UI Clone" width="900">
 </p>
-```
 
 ---
 
